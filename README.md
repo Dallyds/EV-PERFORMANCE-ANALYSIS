@@ -1,4 +1,4 @@
-# ⚡ EV Performance Analysis — Power BI Dashboard
+# ⚡ EV Performance Analysis — By CLAUDE
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Dataset](https://img.shields.io/badge/Dataset-EV%20Data-brightgreen?style=for-the-badge)
@@ -13,6 +13,8 @@ This Power BI project provides a comprehensive analysis of Electric Vehicles (EV
 ---
 
 ## 📂 Dataset — `ev_dataset`
+Dataset link:
+    https://www.kaggle.com/datasets/pratyushpuri/ev-electrical-vehicles-dataset-3k-records-2025?resource=download
 
 ### 📋 Columns
 
@@ -54,6 +56,7 @@ This Power BI project provides a comprehensive analysis of Electric Vehicles (EV
 
 ### 1. ⚡ EV Performance Analysis
 > Explore performance metrics by manufacturer and battery type.
+
 
 **Visuals Included:**
 - 🔘 Manufacturer Slicer (button style)
@@ -101,17 +104,6 @@ This Power BI project provides a comprehensive analysis of Electric Vehicles (EV
 - 🔢 KPI Card — Total Manufacturers
 
 ---
-
-## 🎨 Design Theme
-
-- **Primary Color:** 🟢 Pleasing Green (`#6BBF4E`, `#4CAF50`, `#A8D5A2`)
-- **Background:** Soft green gradient
-- **Text:** White & Dark Green for contrast
-- **Card Icons:** EV-relevant emoji/icons placed on each KPI card
-- **Font:** Segoe UI / Calibri for clean readability
-
----
-
 ## 🗂️ File Structure
 
 ```
@@ -126,21 +118,13 @@ This Power BI project provides a comprehensive analysis of Electric Vehicles (EV
     ├── dashboard2_pricing.png
     └── dashboard3_sales.png
 ```
-
----
-
 ## 🚀 How to Use
 
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/yourusername/EV-Performance-Analysis-PowerBI.git
-   ```
+1. **Open the `.pbix` file** in Power BI Desktop.
 
-2. **Open the `.pbix` file** in Power BI Desktop.
+2. **Connect the dataset** if prompted — point to `Dataset/ev_dataset.csv`.
 
-3. **Connect the dataset** if prompted — point to `Dataset/ev_dataset.csv`.
-
-4. **Explore the dashboards** using slicers for Manufacturer, Battery Type, Country, Year, and Model.
+3. **Explore the dashboards** using slicers for Manufacturer, Battery Type, Country, Year, and Model.
 
 ---
 
@@ -158,16 +142,5 @@ This Power BI project provides a comprehensive analysis of Electric Vehicles (EV
 ## 👩‍💻 Author
 
 **Dally DS**
-- 📧 [Your Email]
-- 🔗 [Your LinkedIn]
-- 🐙 [Your GitHub]
 
----
 
-## 📃 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-> ⚡ *Driving the future, one data point at a time.*
