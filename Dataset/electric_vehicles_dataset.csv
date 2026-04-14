@@ -1,4 +1,0 @@
-create database ev_project;
-drop database ev_project;
-use ev_project;
-select * from ev_dataset;
