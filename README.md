@@ -56,7 +56,7 @@ Dataset link:
 
 ### 1. ⚡ EV Performance Analysis
 > Explore performance metrics by manufacturer and battery type.
-
+<img width="906" height="670" alt="image" src="https://github.com/user-attachments/assets/8b27a5a7-db24-4330-8472-150c14f5c1f4" />
 
 **Visuals Included:**
 - 🔘 Manufacturer Slicer (button style)
@@ -72,7 +72,7 @@ Dataset link:
 
 ### 2. 💰 EV Pricing Analysis
 > Deep-dive into EV pricing by manufacturer, model, battery type, and country.
-
+<img width="907" height="602" alt="image" src="https://github.com/user-attachments/assets/58c61df7-2b8f-4997-ad5e-07bc3350544f" />
 **Visuals Included:**
 - 🔘 Manufacturer Slicer (tile style)
 - 🔢 KPI Card — Battery Capacity
@@ -89,7 +89,7 @@ Dataset link:
 
 ### 3. 📈 Sales Insights
 > Understand sales trends across countries, models, and manufacturers.
-
+<img width="911" height="743" alt="image" src="https://github.com/user-attachments/assets/96653036-3e4e-44cb-ac4b-4c51d530a5f3" />
 **Visuals Included:**
 - 🔘 Model Slicer
 - 🔘 Country of Manufacture Slicer
